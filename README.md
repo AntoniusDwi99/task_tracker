@@ -2,6 +2,10 @@ Task Tracker CLI
 
 A simple command-line tool for managing tasks using Node.js. This application allows you to add, update, delete, and list tasks, and track their statuses (not done, in progress, or done).
 
+Project Page
+
+Visit the project page for more information: [https://github.com/AntoniusDwi99/task_tracker]
+
 Features
 
 - Add a task: Add new tasks to the task list.
