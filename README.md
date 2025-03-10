@@ -4,7 +4,7 @@ A simple command-line tool for managing tasks using Node.js. This application al
 
 Project Page
 
-Visit the project page for more information: [https://github.com/AntoniusDwi99/task_tracker]
+Visit the project page for more information: [https://roadmap.sh/projects/task-tracker]
 
 Features
 
